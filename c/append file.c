@@ -1,6 +1,5 @@
 #include <stdio.h>
-	int main()
-	{
+	int main() {
 		FILE *fptr;
 		fptr=fopen("files/demo2.txt","a");
 		printf("File opened/created successfuly...\nEnter state : ");
