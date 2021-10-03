@@ -2,8 +2,7 @@
 	odd freq checker----automatically detect numbers which is present odd times in array
 */
 #include<stdio.h>
-	int main()
-	{
+	int main() {
 		int t,max=100;
 		printf("Enter test cases : ");
 		scanf("%d",&t);
