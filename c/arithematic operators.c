@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-    int main()
-    {
+    int main() {
         int num1, num2, res;
         printf("Enter 2 numbers : ");
         scanf("%d %d",&num1,&num2);
