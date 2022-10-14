@@ -3,7 +3,7 @@
 #define X 2
 main()
 {
-    float x[X][X+1],a[X], ae, max,t,s,e;
+    float x[X][X+1], a[X], ae, max, t, s, e;
     int i,j,r,mxit;
     for(i=0;i<X;i++) a[i]=0;
     puts(" Enter the elemrnts of augmented matrix rowwise\n");
