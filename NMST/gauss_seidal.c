@@ -1,8 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 #define X 2
-main()
-{
+main() {
     float x[X][X+1],a[X], ae, max,t,s,e;
     int i,j,r,mxit;
     for(i=0;i<X;i++) a[i]=0;
