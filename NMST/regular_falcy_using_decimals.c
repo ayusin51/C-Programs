@@ -2,8 +2,7 @@
 #include<stdlib.h>
 #include<math.h>
 #define fun(x) pow(x,3)-x-4
-int main()
-{
+int main() {
 int count,n;
 float a=0,b=1,x1,x2=0;
 while(((fun(a))*(fun(b)))>0)
