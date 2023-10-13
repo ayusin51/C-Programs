@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
+int main() {
 	FILE *fptr=fopen("files/demo.txt","w");
 	int a[5],i;
 	for (i=0;i<5;i++)
